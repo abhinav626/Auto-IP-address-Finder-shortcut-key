@@ -35,16 +35,12 @@ keyboard.press(Key.enter)           #to run the command
 keyboard.release(Key.enter)
 
 
-#keyboard.press(Key.alt)             #to maximise window
-#keyboard.press(Key.space)
-#keyboard.release(Key.space)
-#keyboard.release(Key.alt)
 
 #=======================================================================
 #closing
 #=======================================================================
 time.sleep(5)
-#keyboard.press(Key.enter)           #to run the command
+#keyboard.press(Key.enter)           #to run the command UNHASH IF CLOSING DOSENT WORK
 #keyboard.release(Key.enter)
 
 time.sleep(0.5)
@@ -56,56 +52,3 @@ keyboard.release(Key.enter)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#{def on_press(key):
-    
- #   try:
- #       k = key.name  # single-char keys
- #   except:
-  #      k = key.char  # other keys
-  #  if k in ['alt']:  # keys of interest
-        # self.keys.append(k)  # store it in global-like variable
-        #(unhash)print('Key pressed: ' + k)
-        
-       
-       # return False  # stop listener; remove this if want more keys
-
-#listener = keyboard.Listener(on_press=on_press)
-#listener.start()  # start to listen on a separate thread
-#listener.join()  # remove if main thread is polling self.keys
-
-
-
-
-
-
-
-
-
-
-    
