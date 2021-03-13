@@ -15,5 +15,6 @@ STEPS TO SET A SHORT-CUT KEY:
 2)Right click > Properties
 3)here you will find  a option called shortcut
 4)There you can enter your desired combination again personal preferance: "ALT+NUM DEL"
+5)And under RUN select MINIMISED for a clean experience(refer to the below screenshot) 
 
 ![image](https://user-images.githubusercontent.com/71834481/111042185-20fc5000-8462-11eb-972f-7a2bfab53974.png)
