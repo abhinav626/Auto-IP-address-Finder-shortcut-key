@@ -7,6 +7,8 @@ For this to function you need to have.
 2)pynput installed, if not use " pip install pynput " command to install
 3)now you are all set to run the code
 
+![image](https://user-images.githubusercontent.com/71834481/111042875-86057500-8465-11eb-9860-c440258050ca.png)
+
 STEPS TO SET A SHORT-CUT KEY:
 
 1)Create a shortcut for the script
